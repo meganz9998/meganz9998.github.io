@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'flat-cake-f855.meganz9998.workers.dev': 1,
       }
     },
     
