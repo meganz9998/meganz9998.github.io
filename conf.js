@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'withered-band-d2c0.meganz9998.workers.dev': 1,
       }
     },
     
